@@ -1,0 +1,13 @@
+D:\Phoneshop\Phoneshop\bin\Debug\Phoneshop.exe.config
+D:\Phoneshop\Phoneshop\bin\Debug\Phoneshop.exe
+D:\Phoneshop\Phoneshop\bin\Debug\Phoneshop.pdb
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.csprojResolveAssemblyReference.cache
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.frmmain.resources
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.Properties.Resources.resources
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.csproj.GenerateResource.Cache
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.exe
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.pdb
+D:\Phoneshop\Phoneshop\obj\Debug\Phoneshop.frmSup.resources
+C:\Users\Joshua\Desktop\eshop\Phoneshop\Phoneshop\bin\Debug\Phoneshop.exe.config
+C:\Users\Joshua\Desktop\eshop\Phoneshop\Phoneshop\obj\Debug\Phoneshop.exe
+C:\Users\Joshua\Desktop\eshop\Phoneshop\Phoneshop\obj\Debug\Phoneshop.pdb
